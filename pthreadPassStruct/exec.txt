@@ -1,0 +1,1 @@
+g++ pthreadPassStruct.cpp -o pthreadPassStruct -lpthread
